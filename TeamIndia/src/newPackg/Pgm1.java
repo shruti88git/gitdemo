@@ -1,3 +1,4 @@
+package newPackg;
 /*class LocalVariablePractice{
 	public static void main(String[] args){
 		long l; // only declaration

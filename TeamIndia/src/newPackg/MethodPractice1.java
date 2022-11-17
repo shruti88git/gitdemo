@@ -1,3 +1,4 @@
+package newPackg;
 
 
 public class MethodPractice1 {
